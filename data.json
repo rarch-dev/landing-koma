@@ -1,0 +1,17 @@
+{
+  "bloquetexto1": {
+    "h1":"Innovación en Software, Diseños que Despegan",
+    "p":"Desarrollo de software a medida con un enfoque en experiencias de usuario optimizadas."
+  },
+  "bloquetexto2": {
+    "h1":"Quiénes Somos",
+    "p":"En Koma Developers, llevamos tus ideas más allá del horizonte digital. Somos una desarrolladora de software innovadora que combina tecnología avanzada con un enfoque creativo en el diseño de interfaces (UI) y experiencias de usuario (UX).<br><br>Nuestro equipo está dedicado a crear soluciones a medida que no solo funcionan a la perfección, sino que también brindan una experiencia visual y de usuario de otro mundo.<br><br>Nuestros Servicios son desarrollo de Software a Medida, Diseño de UI y Diseño de UX"
+  },
+  "bloquetexto3first": {
+    "h1":"Nuestro Portafolio",
+    "h4":"Proyectos de Desarrollo"
+  },
+  "bloquetexto3second": {
+    "h4":"Diseños UI/UX"
+  }
+}
