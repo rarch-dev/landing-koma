@@ -73,37 +73,7 @@ h4:hover{
     margin-bottom: 0%;
 }
 
-#bloquetexto1{
-    margin-top: 8%;
-    text-align-last: left;
-    max-width: 608px;
-    max-height: 392px;
-    padding-left: 77px;
-    padding-right: 77px;
-    vertical-align: 50%;
-}
-
-#bloquetexto2{
-    margin-top: 8%;
-    text-align-last: left;
-    max-width: 608px;
-    max-height: 392px;
-    padding-left: 77px;
-    padding-right: 77px;
-    vertical-align: 50%;
-}
-
-#bloquetexto3first{
-    margin-top: 8%;
-    text-align-last: left;
-    max-width: 608px;
-    max-height: 392px;
-    padding-left: 77px;
-    padding-right: 77px;
-    vertical-align: 50%;
-}
-
-#bloquetexto3second{
+.bloquetexto{
     margin-top: 8%;
     text-align-last: left;
     max-width: 608px;
