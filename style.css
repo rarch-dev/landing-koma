@@ -8,7 +8,7 @@
 
 .subjectcss{
     display: flex;
-    width: 650px;
+    width: 680px;
     height: 650px;
 }
 
@@ -89,10 +89,6 @@ h4:hover{
 }
 
 
-
-
-
-
 ul{
     display: flex;
     flex-direction: row;
@@ -104,14 +100,10 @@ ul{
     font-size: 20px;
 }
 
-ul:hover{
-    color: #FFFFFF;
-    font-size: 32px;
-    font-size: 600;
-    animation: shake 5s cubic-bezier(.36,.07,.19,.97) both;
-    transform: translate3d(0, 0, 0);
-    backface-visibility: hidden;
-    perspective: 1000px;
+#navmenu{
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
 }
 
 
